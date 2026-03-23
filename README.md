@@ -15,7 +15,7 @@
 
 
 #### tips:
-1. 请手动安装ollama以部署qwen2.5:7B模型，或用huggingface下载模型用transformers库导入
+1. 请手动安装ollama以部署qwen2.5:7B模型，或从huggingface下载模型用transformers库导入
 2. 初步安装langchain依赖：
 pip install langchain langchain_community
-3. langchain_community里也有不少好东西，可按注释进行依赖安装
+3. langchain_community里也有不少好东西，一眼丁真，鉴定为我淘
